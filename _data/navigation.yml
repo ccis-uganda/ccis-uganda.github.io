@@ -1,0 +1,14 @@
+main:
+  - title: "Setup"
+  - url: /setup/
+  
+setup:
+  - title: "Setup"
+    url: /setup/
+    children:
+      - title: "ODK-X Tables"
+        url: "/setup/#odk-x-tables"
+      - title: "ODK-X Survey"
+        url: "/setup/#odk-x-survey"
+      - title: "ODK-X Services"
+        url: "/setup/#odk-x-services"
